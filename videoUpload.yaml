@@ -1,0 +1,19 @@
+
+    videos:
+    -
+        title: Danganronpa
+        file:  Videos/combined_from_sdr2.mp4
+        description: Brand new sdr2 tiktok compilation of all your favorite sdr2 tiktoks that I put together! really trying to find all the best tiktoks of 2020 and particularly the funniest sdr2 tiktok videos I can find, we all know sdr2 tiktok is much better than straight tiktok. "#sdr2" "#tiktok" "#compilation"
+        category: Music
+        privacy: private
+        tags:
+            - tiktok
+            - compilation
+            - tiktoks
+            - tik tok
+            - Tik Tok
+            - sdr2
+
+    secrets_path: ./client_secrets.json
+    credentials_path:  ./credentials.json
+    
